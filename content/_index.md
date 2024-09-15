@@ -40,5 +40,5 @@ used amongst fluxbox users.
 The best way to get in contact with the development team is to join the
 official [irc-channel]({{<ref "/help/#irc" >}}) and speak
 directly to them or to use the bug-tracker and forums at
-[sourceforge.net](http://sourceforge.net/projects/fluxbox/){.external}. For
-further information check out the [help-site]({{<ref "/help/" >}}).
+[sourceforge.net](http://sourceforge.net/projects/fluxbox/). For further
+information check out the [help-site]({{<ref "/help/" >}}).
