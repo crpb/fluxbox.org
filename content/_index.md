@@ -39,6 +39,6 @@ used amongst fluxbox users.
 
 The best way to get in contact with the development team is to join the
 official [irc-channel]({{<ref "/help/#irc" >}} "IRC Channel") and speak
-directly to them or to use the bug-tracker and forums at [sourceforge.net]({{
-<ref "http://sourceforge.net/projects/fluxbox/" > }} "Sourceforge"). For
-further information check out the [help-site]({{<ref "/help" >}} "Help").
+directly to them or to use the bug-tracker and forums at
+[sourceforge.net]({{<ref "http://sourceforge.net/projects/fluxbox/" > }} "Sourceforge").
+For further information check out the [help-site]({{<ref "/help" >}} "Help").
