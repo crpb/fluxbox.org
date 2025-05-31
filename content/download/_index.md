@@ -53,9 +53,6 @@ git instructions
 Styles are available on several sites on the Internet. The biggest style
 repositories are:
 
-* tenr.de
-* box-look.org
-* http://themes.freshmeat.net
-* klowner's site
-* deviantart
-* customize.org
+* [tenr.de](http://tenr.de/styles)
+* [box-look.org](https://www.box-look.org/browse?cat=139&ord=latest)
+* [dotshare.it](http://dotshare.it/category/wms/fluxbox/)
